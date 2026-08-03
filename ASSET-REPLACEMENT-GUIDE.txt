@@ -1,0 +1,19 @@
+BACK COUNTRY HOPE WEBSITE — IMAGE ASSETS
+
+The generated placeholder images have been removed. The website now uses the four BCH images supplied by the user:
+
+- assets/images/backcountry-trail.webp
+- assets/images/bch-ministry-logo.webp
+- assets/images/back-country-hope-wordmark.webp
+- assets/images/back-country-dill.webp
+
+Compatibility copies are also included under the filenames already referenced by the unchanged homepage:
+- hero-country-path.webp
+- bch-round-logo.webp
+- bch-lettering.webp
+- dill-mascot.webp
+- bch-wordmark.png
+- team-dill.webp
+- favicon.png
+
+Do not rename or remove the compatibility copies unless the HTML and CSS references are updated too.
